@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c384d</color>
+    <color name="colorPrimaryDark">#2c384d</color>
+    <color name="colorAccent">#788599</color>
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="startblue">#005eff</color>
+    <color name="endblue">#002f7f</color>
+
+    <color name="activity_background">#384863</color>
+
+    <color name="remove_button_color">#dd0000</color>
+
+    <color name="primary_text_color">#d8dce2</color>
+    <color name="secondary_text_color">#b2b9c5</color>
+</resources>
